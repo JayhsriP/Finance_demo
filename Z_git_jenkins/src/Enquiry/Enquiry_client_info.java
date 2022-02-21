@@ -13,4 +13,8 @@ public class Enquiry_client_info {
 	{
 		
 	}
+	public void information()
+	{
+		
+	}
 }

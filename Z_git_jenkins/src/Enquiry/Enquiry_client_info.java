@@ -7,5 +7,10 @@ public class Enquiry_client_info {
 		System.out.println("This is Enquiry Module");
 		System.out.println("Collecting information of client");
 		
+		
+	}
+	public void info()
+	{
+		
 	}
 }
